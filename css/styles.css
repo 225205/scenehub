@@ -46,3 +46,7 @@ footer a:hover {
 #video-background {
 	filter: blur(4px)
 }
+
+.white-text {
+	color:#FFFFFF
+}
