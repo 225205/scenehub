@@ -50,3 +50,11 @@ footer a:hover {
 .white-text {
 	color:#FFFFFF
 }
+
+.bg-product {
+	background-color: aqua
+}
+
+.bg-companyinfo {
+	background-color: bisque
+}
